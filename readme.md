@@ -2,7 +2,7 @@
 id: 
 title: Stackelberg Attacks and Miner-Extractable Value (MEV)
 team: Daji Landis and Nikolaj I. Schwartzbach
-created: 2023-10-01
+created: 2023-10-04
 ---
 
 # Stackelberg Attacks and Miner-Extractable Value (MEV)
